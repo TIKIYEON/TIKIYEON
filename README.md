@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TIKIYEON or Tarik Yorulmaz
-- I currently study coputer science at the University of Copenhagen
+- 👋 Hi, I’m @TIKIYEON or Tarik Yorulmaz.
+- I currently study computer science at the University of Copenhagen.
 - My current competencies lie in the programming language f# with knowledge of the .NET framework and algorithms.
 - I also have a special interest in FOSS and the philosophy behind it.
 
