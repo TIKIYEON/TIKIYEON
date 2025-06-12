@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @TIKIYEON or Tarik Yorulmaz.
-- I currently study computer science at the University of Copenhagen.
-- My current competencies lie in the programming language f# and C# with knowledge of the .NET framework and algorithms.
-- I also have a special interest in FOSS and the philosophy behind it.
+👋 Hi, I’m @TIKIYEON or Tarik Yorulmaz.
+I currently study computer science at the University of Copenhagen desuwa~~
+## Hi there 🥷🏻
+
+[![Folke's github stats](https://github-readme-stats.vercel.app/api?username=folke&count_private=true&show_icons=true)](https://github.com/TIKIYEON)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folke&hide=php)](https://github.com/TIKIYEON)
 
 <!---
 TIKIYEON/TIKIYEON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
